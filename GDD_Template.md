@@ -1,10 +1,10 @@
-# BEAT HOP
+# *BEAT HOP*
 
 ## _Game Design Document_
 
 ---
 
-##### **Copyright notice / author information / boring legal stuff nobody likes**
+##### **Creators: Álvaro García, Diego Araque, Marco Torres, Salomon Dabbah**
 
 ##
 ## _Index_
@@ -46,7 +46,6 @@
 
 ### **Summary**
 
-Sum up your game idea in 2 sentences. A kind of elevator pitch. Keep it simple!
 
 ### **Gameplay**
 
